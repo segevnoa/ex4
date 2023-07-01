@@ -1,0 +1,17 @@
+Merchant
+Well
+Treasure
+Barfight
+Mana
+Dragon
+Gremlin
+Witch
+Merchant
+Witch
+Treasure
+Well
+Mana
+Barfight
+Gremlin
+Treasure
+Merchant
